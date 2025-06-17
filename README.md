@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-# recommend movies on the based of your likes or searches
+# recommend movies based on your likes or searches
